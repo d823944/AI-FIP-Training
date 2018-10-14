@@ -2,8 +2,8 @@
 Example codes for AI FIP training course
 
 Part I. Python Introduction  
-I-A. Introduction & Install packages/IPython/debugging Python code  
-I-B. Python Basics - data structure: variables, list, tuple, dictionary and set  
+> I-A. Introduction & Install packages/IPython/debugging Python code  
+> I-B. Python Basics - data structure: variables, list, tuple, dictionary and set  
 I-C. Python Basics - code structure, modules, packages and I/O  
 I-D. Python Basics - object and class  
 
