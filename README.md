@@ -1,5 +1,4 @@
 # AI FIP Training
-Example codes for AI FIP training course
 
 **Part I. Python Introduction**  
 > I-A. Introduction & Install packages/IPython/debugging Python code  
