@@ -1,2 +1,2 @@
 Example code designed for  
-**Introducing Python**  
+**Introducing Python** by Bill Lubanovic (O'REILLY)
