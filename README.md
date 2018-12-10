@@ -5,7 +5,7 @@
 > I-B. Python Basics - data structure: variables, list, tuple, dictionary and set  
 > I-C. Python Basics - code structure, modules, packages and I/O  
 > I-D. Python Basics - object and class  
-> https://sites.google.com/view/pythonplayground/kids
+> https://sites.google.com/view/pythonplayground
 
 **Part II. Data Analysis and Visualization**  
 > II-A. Python Advanced (Numpy) - arrays and vectorized computation  
