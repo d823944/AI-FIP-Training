@@ -1,0 +1,15 @@
+,age,income,student,credit_rating,buys_computer
+0,youth,high,no,fair,no
+1,youth,high,no,excellent,no
+2,middle_aged,high,no,fair,yes
+3,senior,medium,no,fair,yes
+4,senior,low,yes,fair,yes
+5,senior,low,yes,excellent,no
+6,middle_aged,low,yes,excellent,yes
+7,youth,medium,no,fair,no
+8,youth,low,yes,fair,yes
+9,senior,medium,yes,fair,yes
+10,youth,medium,yes,excellent,yes
+11,middle_aged,medium,no,excellent,yes
+12,middle_aged,high,yes,fair,yes
+13,senior,medium,no,excellent,no
