@@ -3,8 +3,10 @@
 > (2) Fluent Python (流暢的Python) by Luciano Ramalho (O'REILLY)  
 > (3) Python Tricks (Python神乎其技) by Dan Bader  
 > (4) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition (Python資料分析) by Wes McKinney (O'REILLY)  
-> (5) Introduction to Machine Learning by Andreas C. Muller (O'REILLY)  
-> (6) Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Andreas C. Muller (O'REILLY)  
+> (5) Python Data Science Handbook Essential Tools for Working with Data (Python資料科學學習手冊) by Jake VanderPlas (O'REILLY)    
+> (6) Introduction to Machine Learning by Andreas C. Muller (O'REILLY)  
+> (7) Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Andreas C. Muller (O'REILLY)  
+> (8) Python Machine Learning (Python機器學習) by Sebastien Raschka (Packt)   
 
 
 **其它參考書**  
