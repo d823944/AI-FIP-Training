@@ -6,6 +6,7 @@
 >> Numpy  
 >> Pandas  
 >> Matplotlib  
+>> Seaborn   
 >> Sklearn (Scikit-Learn)  
 
 > Online Python Tutor:
