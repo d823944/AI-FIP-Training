@@ -1,16 +1,19 @@
-**Reference Books**  
-> (1) Introducing Python (精通Python) by Bill Lubanovic (O'REILLY)  
-> (2) Fluent Python (流暢的Python) by Luciano Ramalho (O'REILLY)  
-> (3) Python Tricks (Python神乎其技) by Dan Bader  
-> (4) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition (Python資料分析) by Wes McKinney (O'REILLY)  
-> (5) Python Data Science Handbook Essential Tools for Working with Data (Python資料科學學習手冊) by Jake VanderPlas (O'REILLY)    
-> (6) Introduction to Machine Learning by Andreas C. Muller (O'REILLY)  
-> (7) Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Andreas C. Muller (O'REILLY)  
-> (8) Python Machine Learning (Python機器學習) by Sebastien Raschka (Packt)   
+** Reference Books **  
+> (1) Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes    
+> (2) Introducing Python (精通Python) by Bill Lubanovic (O'REILLY)  
+> (3) Fluent Python (流暢的Python) by Luciano Ramalho (O'REILLY)  
+> (4) Python Tricks (Python神乎其技) by Dan Bader  
+> (5) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition (Python資料分析) by Wes McKinney (O'REILLY)  
+> (6) Python Data Science Handbook Essential Tools for Working with Data (Python資料科學學習手冊) by Jake VanderPlas (O'REILLY)   
+> (7) Introduction to Machine Learning with Python by Andreas C. Muller (O'REILLY)  
+> (8) Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Andreas C. Muller (O'REILLY)  
+> (9) Python Machine Learning (Python機器學習) by Sebastien Raschka (Packt)   
+> (10) Deep Learning with Python by Francois Chollet (Manning)    
+> (11) Feature Engineering Made Easy: Identify unique features from your dataset in order to build powerful machine learning systems by Sinan Ozdemir, Divya Susarla    
 
-
-**其它參考書**  
+** More Books **  
 > (1) AI 新世界：中國、矽谷和AI七巨人如何引領全球發展  
+> AI Super-Powers: China, Silicon Valley and the new world order by Kai-Fu Lee   
 > (2) 謝謝你遲到了：一個樂觀主義者在加速時代的繁榮指引  
 > Thank You for Being Late by Thomas L. Friedman  
 > (3) 認識大數據的第一本書  
