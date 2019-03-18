@@ -10,4 +10,6 @@
 >> Sklearn (Scikit-Learn)  
 
 > Online Python Tutor:
-> http://www.pythontutor.com/live.html#mode=edit
+> http://www.pythontutor.com/live.html#mode=edit   
+> Free GPU:   
+> https://colab.research.google.com
