@@ -1,4 +1,4 @@
-** Reference Books **  
+#### Reference Books   
 > (1) Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes    
 > (2) Introducing Python (精通Python) by Bill Lubanovic (O'REILLY)  
 > (3) Fluent Python (流暢的Python) by Luciano Ramalho (O'REILLY)  
@@ -11,7 +11,7 @@
 > (10) Deep Learning with Python by Francois Chollet (Manning)    
 > (11) Feature Engineering Made Easy: Identify unique features from your dataset in order to build powerful machine learning systems by Sinan Ozdemir, Divya Susarla    
 
-** More Books **  
+#### More Books    
 > (1) AI 新世界：中國、矽谷和AI七巨人如何引領全球發展  
 > AI Super-Powers: China, Silicon Valley and the new world order by Kai-Fu Lee   
 > (2) 謝謝你遲到了：一個樂觀主義者在加速時代的繁榮指引  
