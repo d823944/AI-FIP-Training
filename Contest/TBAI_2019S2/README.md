@@ -10,6 +10,6 @@ NA data (%):
 > village_income_median     1.9%    
 
 Catrgorical features (2 < np.unique < 20): 50    
-> max. number of categories for one feature: 17
+> max. number of categories for one feature: 17    
 > min. number of categories for one feature: 3    
 > avg. number of categories for one feature: 9.32
