@@ -8,3 +8,8 @@ NA data (%):
 > parking_price            76.8%    
 > txn_floor                26.5%    
 > village_income_median     1.9%    
+
+Catrgorical features (np.unique < 20): 121    
+> max. number of categories for one feature: 17
+> min. number of categories for one feature: 1   
+> avg. number of categories for one feature: 4.84
