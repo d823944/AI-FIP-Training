@@ -9,7 +9,6 @@ NA data (%):
 > txn_floor                26.5%    
 > village_income_median     1.9%    
 
-Catrgorical features (2 < np.unique < 20): 50    
-> max. number of categories for one feature: 17    
-> min. number of categories for one feature: 3    
-> avg. number of categories for one feature: 9.32
+Catrgorical features (2 < np.unique < 20 && dtype == "int64"): 40
+
+
